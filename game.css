@@ -1,0 +1,49 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	color: white;
+}
+
+h1:hover{
+	color:blue;
+}
+
+div:hover{
+	background: rgb(58,71,180);
+	background: linear-gradient(90deg, rgba(58,71,180,1) 0%, rgba(81,181,233,1) 100%, rgba(252,176,69,1) 100%);
+}
